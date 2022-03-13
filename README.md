@@ -178,7 +178,7 @@
 
 [GateBox](https://www.gatebox.ai/)
 - Living with Characters
-- 
+- Gatebox是一款专为宅男定制的家用智能化全息机器人
 
 ## 🖼️ Art in the Metaverse 艺术
 
@@ -283,7 +283,13 @@
 
 [Avatary FACEGOOD](http://www.facegood.cc/)
 - Make a World of Avatars
-- 
+
+[Replika: My AI Friend](https://replika.ai/)
+- The AI companion who cares ,Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!
+- AI伴侣
+
+
+
 
 ## 👔 Digital Fashion 数字时尚
 
