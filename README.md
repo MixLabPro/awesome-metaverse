@@ -23,6 +23,7 @@
 
 [Bigscreen](https://bigscreenvr.com/)
 - watch movies and hangout with friends in VR
+- [元宇宙社交产品推荐 #Bigscreen](https://mp.weixin.qq.com/s/0SKemtMvvTa6CLww8WBHcw)
 
 [Breakroom](https://www.breakroom.net/)
 - 3D virtual world platform
@@ -37,11 +38,23 @@
 [Gather](https://www.gather.town/)
 - customizable virtual spaces
 - 2D 特征
+- [数百万人的元宇宙](https://mp.weixin.qq.com/s/2zf5gv9CdqOhB1lErlusSQ)
+
+[flat.social](https://flat.social)
+- customizable virtual spaces
+- physics
+- 2D 特征
 
 [Uhive - A Social Metaverse](https://www.uhive.com)
 - Step into the world’s-first social metaverse 
 - Designed for billions of users & infinite possibilities
 - 社交元宇宙
+
+[Kode Sports Club](https://www.kodeclubs.com/)
+- kode sports club new cairo opening in Q2 2022
+- [基于threejs的网页版虚拟空间-体育元宇宙](https://mp.weixin.qq.com/s/tmLCQ_HtOr6ANiNdx_b6LA)
+
+
 
 
 ### Sandbox & user space experience platform   沙盒及内容体验构建平台
@@ -60,6 +73,11 @@
 - UGC Social Entertainment Platform
 - 
 
+[Croquet OS](https://croquet.io/index.html)
+- the Operating System for the Metaverse
+- [Croquet Microverse ](https://github.com/croquet/microverse)
+
+
 
 ### Design Tools 设计工具
 
@@ -74,7 +92,7 @@
 [FFORMS](https://www.fforms.com/)
 - A collection of modular architecture made for the metaverse. 
 - Each FFORM NFT contains an unlockable 3D model designed for compatibility in Decentraland and beyond.
-- 创建元宇宙模块化建筑
+- [创建元宇宙模块化建筑](https://mp.weixin.qq.com/s/VHAtgSyxVEZpjMfOsgIEeA)
 
 
 ### Space and construction visulizaiton platform  空间及结构可视化内容平台
@@ -88,6 +106,13 @@
 [Stageverse](https://stageverse.com/)
 - 3D venues to share and connect
 
+[Mona](https://www.mona.gallery/)
+- Own a space in the metaverse
+- Mona spaces are beautiful social worlds for you to collect, show your art, and gather with others.
+
+[Rec Room](https://recroom.com/)
+- Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all.
+
 
 ### A bit of everything 大综合
 
@@ -97,7 +122,8 @@
 
 [Spatial](https://spatial.io/)
 - virtual spaces that bring us together
-- 轻量化技术
+- [打通了虚拟空间、nft创作者经济的元宇宙](https://mp.weixin.qq.com/s/ttiRiFsVR7gnXe-O-NWLNA)
+- 
 
 [HIKKY](https://www.hikky.life/cn)
 - By hosting the world's largest VR event and providing a VR development engine, we realize an open metaverse that transcends the barriers of platforms.
@@ -119,6 +145,34 @@
 - 一站式解决全链路痛点需求,从资源、开发工具、部署上线、获客流量、数据分析到变现
 - YOU CREATE, WE TAKE CARE OF THE REST
 
+[ambush](https://ambushsilverfctry.io/)
+- 高级潮牌做的虚拟空间
+
+
+[Earth 2®](https://earth2.io/)
+- Earth 2® is a futuristic concept for a second earth; a metaverse, between virtual and physical reality in which real-world geolocations on a sectioned map correspond to user generated digital virtual environments. These environments can be owned, bought, sold, and in the near future deeply customized.
+
+[MonoAI](https://monoai.co.jp/company)
+- 多人即时通信与虚拟空间平台
+
+
+[ComplexLand](https://complexland.com/#home)
+- ComplexLand 2022: An Immersive Virtual Pop Culture Festival
+- COMPLEXLAND™ is a free digital experience returning to the metaverse, May 25-27 2022, with exclusive drops, shopping, art and more.
+
+
+[STYLE](https://styly.cc/)
+- Free your inner world
+- VR/AR/MR creative platform for artists
+- [创作VR作品](https://mp.weixin.qq.com/s/D_euAXrlAGQ2PFop_8-wpw)
+
+[JOURNEE](https://journee.live/)
+- RECONNECTING HUMANS AND BRANDS IN VIRTUAL SPACES.
+- [NFTism at Art Basel Miami Beach Designed by Zaha Hadid Architects, powered by JOURNEE](https://amazingarchitecture.com/news/nftism-at-art-basel-miami-beach-designed-by-zaha-hadid-architects-powered-by-journee)
+
+[MARS META](http://marsplanningbureau.com)
+- YOUR JOURNEY TO MARS METAVERSE
+- 
 
 ## 👓 AR/VR Hardware 硬件
 
@@ -187,6 +241,7 @@
 
 [Museum of Crypto Art](https://museumofcryptoart.com/)
 - a cultural institution for crypto art
+- [NFT艺术博物馆](https://mp.weixin.qq.com/s/nMTAqzgmqB63_nSOGvWO3A)
 
 [Sotheby's Metaverse](https://metaverse.sothebys.com/)
 - an immersive destination from Sotheby's
@@ -231,6 +286,10 @@
 - the Museum of Crypto Art
 - 加密艺术博物馆
 
+[NFTGo.io](https://nftgo.io/)
+- The all-in-one NFT analytics platform
+- 综合NFT分析平台
+
 
 ## 🤖️ AI-NFT 智能NFT
 
@@ -243,6 +302,10 @@
 
 ## 👨 Avatar Creation 虚拟身份
 
+[MetaHuman Creator](https://www.unrealengine.com/en-US/metahuman)
+- Framework for creating high-fidelity digital humans in minutes.
+- [3Lateral Rig Logic](https://www.3lateral.com)
+
 [Digital humans](https://digitalhumans.com/)
 - Build your own digital human.With UneeQ Creator, you can design, develop and deploy your own customized, AI-powered digital humans in a matter of minutes.
 
@@ -251,6 +314,7 @@
 
 [Alethea AI](https://alethea.ai/)
 - bring NFT avatars to life with AI
+- [白皮书解读](https://mp.weixin.qq.com/s/IBGQT1RrAR1T03rlfVbSrw)
 
 [Avatar SDK](https://avatarsdk.com/)
 - AI-powered 3D avatars
@@ -263,6 +327,23 @@
 
 [Ready Player Me](https://readyplayer.me/)
 - cross-game avatar platform
+- [NFT](https://readyplayer.me/nfts) Ready Player Me enables owners of NFTs to wear their assets across hundreds of games and apps across the metaverse
+
+
+[animaze](https://www.animaze.us)
+- Interactive Creativity
+- Join a community of over 1 million Streamers, YouTubers, VTubers, Artists, and Creatives who use our avatars!
+- Animaze puts AAA-quality avatars in your hands so you can create interactive avatar-based entertainment for audiences around the world. 
+- 
+
+[Alter ](https://github.com/facemoji/alter-core)
+- Alter is a cross-platform SDK consisting of a real-time 3D avatar system and motion capture built from scratch for web3 interoperability and the open metaverse.
+- 开源的实时3D头像解决方案
+
+
+[Rapport](https://www.rapport.cloud/)
+- Bring your brand to life with a digital character.
+- 
 
 [Pinscreen](http://pinscreen.com/)
 - The Most Advanced AI-Driven Virtual Avatars
@@ -287,6 +368,30 @@
 [Replika: My AI Friend](https://replika.ai/)
 - The AI companion who cares ,Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now!
 - AI伴侣
+
+[Mvmi](https://getmovmi.com)
+- Human AI powered Motion Capture
+- 人工智能驱动的动作捕捉工具
+
+[Plask](https://plask.ai)
+- Quickly animate your character with just a webcam
+- Edit your animation with our browser-based editing tool
+
+
+[Animate 3D](https://www.deepmotion.com/animate-3d)
+- Generate 3D animations from video
+- AI Motion Capture, Made Simple
+- Create 3D Animations in Seconds
+- Character Retargeting & Preview
+
+[Rokoko Studio](https://www.rokoko.com/studio)
+- A new ecosystem for editing animation
+- Real-time 3D character animation software for all creators
+
+
+[Speech Graphics](https://www.speech-graphics.com/facial-animation-and-lip-sync-products)
+- At Speech Graphics we specialize in one of the holy grails of computer facial animation: automatic, accurate lip sync. 
+- SGX is an award winning, production tested, automatic speech-to-facial animation system. 
 
 
 
@@ -435,6 +540,9 @@
 [Welcome to the Metaverse](https://open.spotify.com/show/1VXZAMyo0nzrW2neDtk6fa/)
 - hosted by MetaverseLuke
 
+[元宇宙·跨学科即兴对话](https://www.ximalaya.com/album/54239586)
+- 源自mixlab无界社区的播客
+- [纪念品](https://opensea.io/collection/metaverse-sn-mixlab)
 
 ## 🏫 Conferences & Events 会议&事件
 
@@ -464,6 +572,10 @@
 [Open Metaverse Interoperability Group](https://github.com/omigroup/omigroup/)
 - promoting protocols of the metaverse
 
+[The Metaverse Standards Forum](https://metaverse-standards.org)
+- Where Leading Standards Organizations and Companies Cooperate to Foster Interoperability Standards for an Open Metaverse
+
+
 ## 💴 Creators 创作者
 [untitled, xyz](https://www.untitledxyz.com)
 - a Brooklyn-based digital artist and architect. His work explores metaverse architecture and design concepts emerging from blockchain technology.
@@ -481,3 +593,19 @@
 [The Sims Resource](https://www.thesimsresource.com/)
 - The Sims Resource is the world's largest online community for The Sims franchise, with new content daily, mainly for The Sims 4
 - 
+
+## 🌏 Marketing 营销
+- Metaverse marketing allows brands to maximise their creativity and reach their target audience most attractively. That’s why brands are turning their faces to the metaverse for digital marketing one by one.
+- [元宇宙营销](https://mp.weixin.qq.com/s/qmCdAxbaWbMKVM4dcNXGmQ)
+
+
+
+## Support
+- [Discord](https://discord.gg/x7GsmuTQjV)
+
+
+
+
+## License
+
+[![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](LICENSE)
